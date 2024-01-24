@@ -39,49 +39,6 @@ Upon signing in, users are directed to the home page, where they find a user-fri
 
 Users can log out securely from the application.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/employee-management.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd employee-management
-   ```
-
-3. Install dependencies using [pip](https://pip.pypa.io/en/stable/):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run migrations:
-
-   ```bash
-   python manage.py migrate
-   ```
-
-5. Create a superuser account:
-
-   ```bash
-   python manage.py createsuperuser
-   ```
-
-6. Start the development server:
-
-   ```bash
-   python manage.py runserver
-   ```
-
-   Access the application at http://127.0.0.1:8000/ and begin managing employee information effortlessly.
-
-## Contributing
-
-If you encounter issues or have suggestions for improvement, please feel free to contribute by opening an [issue](https://github.com/your-username/employee-management/issues) or submitting a [pull request](https://github.com/your-username/employee-management/pulls).
 
 ## License
 
